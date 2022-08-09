@@ -1,0 +1,50 @@
+05/08/2022 20:37:19   Top of save_file.py...06/08/2022 07:21:39    /home/ty/site06/08/2022 07:26:35    /home/ty/site/static/files/1086_0.jpg06/08/2022 08:42:46    Saving file to db: /home/ty/site/static/files/1086_0.jpg06/08/2022 08:43:50    Saving file to db: /home/ty/site/static/files/1086_0.jpg06/08/2022 08:48:37    Saving file to db: /home/ty/site/static/files/1086_0.jpg06/08/2022 08:52:12    Saving file to db: /home/ty/site/static/files/1086_0.jpg06/08/2022 08:52:12    **** INSERTING INTO DATABASE ****06/08/2022 08:52:56    Saving file to db: /home/ty/site/static/files/1086_0.jpg06/08/2022 08:52:56    **** INSERTING INTO DATABASE ****06/08/2022 08:52:56    **** AFTER CREATE_TABLE ****06/08/2022 08:52:56    **** EXECUTE ****06/08/2022 11:59:49    Saving file to db: /home/ty/site/static/files/1086_0.jpg
+06/08/2022 11:59:49    **** INSERTING INTO DATABASE ****
+06/08/2022 12:00:25    Saving file to db: /home/ty/site/static/files/1086_0.jpg
+06/08/2022 12:00:25    **** INSERTING INTO DATABASE ****
+06/08/2022 12:00:25    **** AFTER CREATE_TABLE ****
+06/08/2022 12:00:25    **** EXECUTE ****
+06/08/2022 12:02:49    Saving file to db: 1086_0.jpg
+06/08/2022 12:02:49    **** INSERTING INTO DATABASE ****
+06/08/2022 12:02:49    **** AFTER CREATE_TABLE ****
+06/08/2022 12:02:49    **** EXECUTE ****
+06/08/2022 12:18:38    Saving file to db: 1086_0.jpg
+06/08/2022 12:18:38    **** INSERTING INTO DATABASE ****
+06/08/2022 12:18:38    **** AFTER CREATE_TABLE ****
+06/08/2022 12:23:04    Saving file to db: 1086_0.jpg
+06/08/2022 12:23:04    **** INSERTING INTO DATABASE ****
+06/08/2022 12:23:04    **** AFTER CREATE_TABLE ****
+06/08/2022 12:23:40    Saving file to db: 1086_0.jpg
+06/08/2022 12:23:40    **** INSERTING INTO DATABASE ****
+06/08/2022 12:23:40    **** AFTER CREATE_TABLE ****
+06/08/2022 12:24:04    Saving file to db: 1086_0.jpg
+06/08/2022 12:24:04    **** INSERTING INTO DATABASE ****
+06/08/2022 12:24:04    **** AFTER CREATE_TABLE ****
+06/08/2022 12:24:04    **** EXECUTE ****
+06/08/2022 12:29:59    Saving file to db: 1086_0.jpg
+06/08/2022 12:29:59    **** INSERTING INTO DATABASE ****
+06/08/2022 12:29:59    **** AFTER CREATE_TABLE ****
+06/08/2022 12:30:22    Saving file to db: 1086_0.jpg
+06/08/2022 12:30:22    **** INSERTING INTO DATABASE ****
+06/08/2022 12:30:22    **** AFTER CREATE_TABLE ****
+06/08/2022 12:30:22    **** EXECUTE ****
+06/08/2022 12:31:37    Saving file to db: 1086_0.jpg
+06/08/2022 12:31:37    **** INSERTING INTO DATABASE ****
+06/08/2022 12:31:37    **** AFTER CREATE_TABLE ****
+06/08/2022 12:31:37    **** EXECUTE ****
+06/08/2022 12:33:12    Saving file to db: 1086_0.jpg
+06/08/2022 12:33:12    **** INSERTING INTO DATABASE ****
+06/08/2022 12:33:12    **** AFTER CREATE_TABLE ****
+06/08/2022 12:33:12    **** EXECUTE ****
+06/08/2022 12:33:55    Saving file to db: 1086_0.jpg
+06/08/2022 12:33:55    **** INSERTING INTO DATABASE ****
+06/08/2022 12:33:55    **** AFTER CREATE_TABLE ****
+06/08/2022 12:33:55    **** EXECUTE ****
+07/08/2022 11:25:28    Saving file to db: images.jpeg
+07/08/2022 11:25:28    **** INSERTING INTO DATABASE ****
+07/08/2022 11:25:28    **** AFTER CREATE_TABLE ****
+07/08/2022 11:25:28    **** EXECUTE ****
+07/08/2022 11:27:57    Saving file to db: images.jpeg
+07/08/2022 11:27:57    **** INSERTING INTO DATABASE ****
+07/08/2022 11:27:57    **** AFTER CREATE_TABLE ****
+07/08/2022 11:27:57    **** EXECUTE ****
